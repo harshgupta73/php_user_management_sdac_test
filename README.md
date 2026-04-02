@@ -93,6 +93,28 @@ http://localhost/php_user_management_sdac_test
 
 ---
 
+📸 Screenshots
+
+### Login
+![Login](images/login.png)
+
+### Register
+![Register](images/register.png)
+
+### Home
+![Home](images/home1.png)
+![Home](images/home2.png)
+
+### Edit
+![Edit](images/edit1.png)
+![Edit](images/edit2.png)
+![Edit](images/edit3.png)
+
+### Delete
+![Delete](images/delete.png)
+
+---
+
 🔐 Security
 
 Password hashing using password_hash()  
